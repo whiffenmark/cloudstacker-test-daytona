@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Exact Match",
+    "text": "Medicare Agent Daytona Beach",
+    "target_url": "https://example.com/medicare"
+  },
+  {
+    "type": "Partial Match",
+    "text": "trusted medicare agent help",
+    "target_url": "https://example.com/medicare"
+  },
+  {
+    "type": "Branded",
+    "text": "Daytona Beach Medicare",
+    "target_url": "https://example.com/medicare"
+  },
+  {
+    "type": "Naked URL",
+    "text": "example.com/medicare",
+    "target_url": "https://example.com/medicare"
+  },
+  {
+    "type": "Generic",
+    "text": "learn more",
+    "target_url": "https://example.com/medicare"
+  },
+  {
+    "type": "Map / Entity",
+    "text": "Daytona Beach Medicare in Daytona Beach",
+    "target_url": "https://example.com/medicare"
+  }
+]
